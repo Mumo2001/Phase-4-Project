@@ -1,7 +1,8 @@
 # Phase 4 Project
 # Forecasting Real Estate Prices Using Time Series Model
 
-#Introduction
+# Introduction
+
 This project involves analyzing the zillow_data.csv dataset to accomplish the following goals:
 1.	Provide a valuable and accurate predictive time series model with improved accuracy for stakeholders in the real estate industry.
 2.	Identify the most significant factors influencing property values in real estate.
